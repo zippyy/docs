@@ -1,4 +1,4 @@
-baseURL = "https://docs.techrelay.xyz"
+baseURL = "https://docs.techrelay.xyz/"
 title = "Tech Relay Docs"
 enableRobotsTXT = true
 # this example loads the theme as hugo module
